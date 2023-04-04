@@ -14,8 +14,8 @@
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![STL](https://img.shields.io/badge/-C++-333333?style=flat)
-  ![Data Structure & Algorithms](https://img.shields.io/badge/-C++-333333?style=flat)
+  ![STL](https://img.shields.io/badge/-STL-333333?style=flat)
+  ![Data Structure & Algorithms](https://img.shields.io/badge/-Data%20Structure%20and%20Algorithms-333333?style=flat)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -24,7 +24,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/express.js-333333?style=flat&logo=express&logoColor=%2361DAFB)
-  ![Redux](https://img.shields.io/badge/opencv-333333?style=flat&logo=redux&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-333333?style=flat&logo=redux&logoColor=white)
+  ![API](https://img.shields.io/badge/API-333333?style=flat&logo=api&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb&)
@@ -36,8 +37,8 @@
   ![Bash](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=linux)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Code Pen](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=codepen&logoColor=007ACC)
-  ![CodeSandBox](https://img.shields.io/badge/jupyter-333333?style=flat&logo=codesandbox&logoColor=white)
+  ![Code Pen](https://img.shields.io/badge/-Code%20Pen-333333?style=flat&logo=codepen&logoColor=007ACC)
+  ![CodeSandBox](https://img.shields.io/badge/Code%20SandBox-333333?style=flat&logo=codesandbox&logoColor=white)
 
 <br/>
 
