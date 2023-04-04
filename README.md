@@ -29,12 +29,12 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb&)
-  ![DBMS](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=dbms)
+  ![DBMS](https://img.shields.io/badge/DBMS-333333?style=flat&logo=dbms)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Linux](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=linux)
-  ![Bash](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=linux)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=linux)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Code Pen](https://img.shields.io/badge/-Code%20Pen-333333?style=flat&logo=codepen&logoColor=007ACC)
@@ -46,17 +46,17 @@
     <img
         height="180em"
 	 width="400em"
-        src="https://github-readme-stats.vercel.app/api?username=insignificantGuy&show_icons=true&hide_border=true&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?username=puneetdhiman06&show_icons=true&hide_border=true&theme=tokyonight"
     />
     <img
         height="180em"
 	width="400em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=insignificantGuy&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetdhiman06&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
     />
 </p>
 
 <p align="center"> 
-	<a href="https://github.com/insignificantGuy"><img src="https://komarev.com/ghpvc/?username=insignificantGuy" alt="insignificantGuy"/></a>
-	<a href="https://github.com/insignificantGuy?tab=repositories"><img src="https://badges.pufler.dev/repos/insignificantGuy" alt="insignificantGuy" /> </a>
-	<img src="https://img.shields.io/github/stars/insignificantGuy?label=Stars" alt="Total Stars">
+	<a href="https://github.com/puneetdhiman06"><img src="https://komarev.com/ghpvc/?username=puneetdhiman06" alt="puneetdhiman06"/></a>
+	<a href="https://github.com/puneetdhiman06?tab=repositories"><img src="https://badges.pufler.dev/repos/puneetdhiman06" alt="puneetdhiman06" /> </a>
+	<img src="https://img.shields.io/github/stars/puneetdhiman06?label=Stars" alt="Total Stars">
 </p>
